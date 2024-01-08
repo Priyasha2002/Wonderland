@@ -26,7 +26,7 @@ Future<dynamic> convertTextToImage(
       'Content-Type': 'application/json',
       'Authorization':
           //add your secret key here
-          'Bearer sk-LYlRYbSGtUTZ5jItsuhGhAxvdcqjp0Bs4VgVg4f5dN7THd5r',
+          'Bearer sk-G8IcFWPds9VCASxWNM1MYPKt8L6gfLqRKclt4lNaMmqUICVJ',
       'Accept': 'image/png',
     },
     body: jsonEncode({
